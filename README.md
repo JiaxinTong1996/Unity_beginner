@@ -9,5 +9,5 @@ Spring2021
 
 ### quiz video: https://www.youtube.com/watch?v=PBd9VPHlCTQ 
 
-### Project video: https://www.youtube.com/watch?v=PmU1W_fYGcs Medium article : https://jiaxintong.medium.com/my-journey-to-make-game-with-unity-b7536149759a
+### Project video: https://www.youtube.com/watch?v=PmU1W_fYGcs     Medium article : https://jiaxintong.medium.com/my-journey-to-make-game-with-unity-b7536149759a
 
